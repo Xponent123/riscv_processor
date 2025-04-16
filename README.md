@@ -2,18 +2,6 @@
 
 This repository contains the implementation and simulation of a processor architecture that supports both sequential execution and pipelined execution. The project includes a detailed design of essential processor components, a subset of fundamental instructions, and techniques to handle pipeline hazards.
 
-## Table of Contents
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Key Components](#key-components)
-  - [Sequential Implementation](#sequential-implementation)
-  - [Pipelined Implementation](#pipelined-implementation)
-- [Instruction Set](#instruction-set)
-- [Pipeline Hazards & Mitigation](#pipeline-hazards--mitigation)
-- [Simulations](#simulations)
-- [Team Contributions](#team-contributions)
-- [Acknowledgements](#acknowledgements)
-
 ## Overview
 
 This project is part of the *Intro to Processor Architecture* course project by Team-4. It focuses on two key approaches:
