@@ -1,0 +1,60 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Mon Mar  3 16:12:19 2025
+[*]
+[dumpfile] "/home/xponent/Documents/verilog/team-4/team-4/src/cpu_top_wave.vcd"
+[dumpfile_mtime] "Mon Mar  3 16:08:05 2025"
+[dumpfile_size] 91226
+[savefile] "/home/xponent/Documents/verilog/team-4/team-4/main.gtkw"
+[timestart] 0
+[size] 1920 948
+[pos] -51 -51
+*-14.235108 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] cpu_top_tb.
+[sst_width] 233
+[signals_width] 182
+[sst_expanded] 1
+[sst_vpaned_height] 265
+@29
+[color] 2
+cpu_top_tb.UUT.clk
+@22
+cpu_top_tb.UUT.ALUControl[3:0]
+@28
+cpu_top_tb.UUT.ALUOp[1:0]
+cpu_top_tb.UUT.ALUSrc
+cpu_top_tb.UUT.Branch
+cpu_top_tb.UUT.MemRead
+cpu_top_tb.UUT.MemWrite
+cpu_top_tb.UUT.MemtoReg
+cpu_top_tb.UUT.RegWrite
+@22
+cpu_top_tb.UUT.alu_in2[63:0]
+cpu_top_tb.UUT.alu_result[63:0]
+@28
+cpu_top_tb.UUT.alu_zero
+cpu_top_tb.UUT.branch_taken
+cpu_top_tb.UUT.func3[2:0]
+@22
+cpu_top_tb.UUT.func7[6:0]
+@28
+cpu_top_tb.UUT.func7_5
+@22
+cpu_top_tb.UUT.imm_out[63:0]
+cpu_top_tb.UUT.instruction[31:0]
+cpu_top_tb.UUT.mem_read_data[63:0]
+cpu_top_tb.UUT.opcode[6:0]
+cpu_top_tb.UUT.pc[63:0]
+cpu_top_tb.UUT.pc_branch[63:0]
+cpu_top_tb.UUT.pc_next[63:0]
+cpu_top_tb.UUT.pc_plus_4[63:0]
+cpu_top_tb.UUT.rd[4:0]
+cpu_top_tb.UUT.reg_data1[63:0]
+cpu_top_tb.UUT.reg_data2[63:0]
+@28
+cpu_top_tb.UUT.reset
+@22
+cpu_top_tb.UUT.rs1[4:0]
+cpu_top_tb.UUT.rs2[4:0]
+[pattern_trace] 1
+[pattern_trace] 0

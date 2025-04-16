@@ -1,0 +1,128 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sat Mar  8 09:30:20 2025
+[*]
+[dumpfile] "/home/xponent/Documents/verilog/submission_pipeline/pipelined/cpu_top_wave.vcd"
+[dumpfile_mtime] "Sat Mar  8 09:29:01 2025"
+[dumpfile_size] 115455
+[savefile] "/home/xponent/Documents/verilog/submission_pipeline/pipelined/main.gtkw"
+[timestart] 0
+[size] 1920 948
+[pos] -101 -101
+*-15.389915 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] cpu_tb.
+[sst_width] 233
+[signals_width] 190
+[sst_expanded] 1
+[sst_vpaned_height] 265
+@22
+cpu_tb.uut.ALUControl[3:0]
+@28
+cpu_tb.uut.ALUOp[1:0]
+cpu_tb.uut.ALUOp_reg[1:0]
+cpu_tb.uut.ALUSrc
+cpu_tb.uut.ALUSrc_reg
+@22
+cpu_tb.uut.ALU_IN1[63:0]
+cpu_tb.uut.ALU_IN2[63:0]
+cpu_tb.uut.ALU_result[63:0]
+@28
+cpu_tb.uut.Branch
+cpu_tb.uut.Branch_reg
+cpu_tb.uut.ControlStall
+cpu_tb.uut.EX_ALUOp[1:0]
+cpu_tb.uut.EX_ALUSrc
+cpu_tb.uut.EX_Bit30
+cpu_tb.uut.EX_Branch
+cpu_tb.uut.EX_Funct3[2:0]
+@22
+cpu_tb.uut.EX_Imm[63:0]
+@28
+cpu_tb.uut.EX_MemRead
+cpu_tb.uut.EX_MemWrite
+cpu_tb.uut.EX_MemtoReg
+@22
+cpu_tb.uut.EX_Rd[4:0]
+cpu_tb.uut.EX_RegData1[63:0]
+cpu_tb.uut.EX_RegData2[63:0]
+@28
+cpu_tb.uut.EX_RegWrite
+@22
+cpu_tb.uut.EX_Rs1[4:0]
+cpu_tb.uut.EX_Rs2[4:0]
+cpu_tb.uut.EX_pc[63:0]
+cpu_tb.uut.EX_pc_branch[63:0]
+@28
+cpu_tb.uut.ForwardA[1:0]
+cpu_tb.uut.ForwardB[1:0]
+@22
+cpu_tb.uut.ID_instruction[31:0]
+cpu_tb.uut.ID_pc[63:0]
+@28
+cpu_tb.uut.IF_ID_reg_write
+@22
+cpu_tb.uut.IF_instruction[31:0]
+cpu_tb.uut.Imm[63:0]
+cpu_tb.uut.MEM_ALU_result[63:0]
+@28
+cpu_tb.uut.MEM_Alu_zero
+cpu_tb.uut.MEM_Branch
+cpu_tb.uut.MEM_MemRead
+cpu_tb.uut.MEM_MemWrite
+cpu_tb.uut.MEM_MemtoReg
+@22
+cpu_tb.uut.MEM_PC[63:0]
+cpu_tb.uut.MEM_Rd[4:0]
+cpu_tb.uut.MEM_RegData2[63:0]
+@28
+cpu_tb.uut.MEM_RegWrite
+cpu_tb.uut.MemRead
+@22
+cpu_tb.uut.MemReadData[63:0]
+@28
+cpu_tb.uut.MemRead_reg
+cpu_tb.uut.MemWrite
+cpu_tb.uut.MemWrite_reg
+cpu_tb.uut.MemtoReg
+cpu_tb.uut.MemtoReg_reg
+cpu_tb.uut.PCWrite
+cpu_tb.uut.PC_Src
+@22
+cpu_tb.uut.RegData1[63:0]
+cpu_tb.uut.RegData2[63:0]
+@28
+cpu_tb.uut.RegWrite
+cpu_tb.uut.RegWrite_reg
+@22
+cpu_tb.uut.WB_Alu_result[63:0]
+cpu_tb.uut.WB_MemReadData[63:0]
+@28
+cpu_tb.uut.WB_MemtoReg
+@22
+cpu_tb.uut.WB_Rd[4:0]
+@28
+cpu_tb.uut.WB_RegWrite
+@22
+cpu_tb.uut.WB_WriteData[63:0]
+cpu_tb.uut.alu_in2[63:0]
+@28
+cpu_tb.uut.bit30
+cpu_tb.uut.clk
+cpu_tb.uut.flush
+cpu_tb.uut.funct3[2:0]
+@22
+cpu_tb.uut.funct7[6:0]
+cpu_tb.uut.opcode[6:0]
+cpu_tb.uut.pc[63:0]
+cpu_tb.uut.pc_next[63:0]
+cpu_tb.uut.pc_plus4[63:0]
+cpu_tb.uut.rd[4:0]
+@28
+cpu_tb.uut.reset
+@22
+cpu_tb.uut.rs1[4:0]
+cpu_tb.uut.rs2[4:0]
+@28
+cpu_tb.uut.zero
+[pattern_trace] 1
+[pattern_trace] 0
